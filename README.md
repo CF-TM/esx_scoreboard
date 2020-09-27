@@ -70,7 +70,7 @@ from installing and updating, every part of the bot can be controlled from withi
 - Trivia (lists are included and can be easily added)
 - Music features (YouTube, SoundCloud, local files, playlists, queues)
 - Stream alerts (Twitch, Youtube, Hitbox, Picarto)
-- Bank (slot machine, user credits)
+- Bank (slot machine, user credits) 
 - Custom commands
 - Imgur/gif search
 - Admin automation (self-role assignment, cross-server announcements, mod-mail reports)
