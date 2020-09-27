@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://cdn.discordapp.com/attachments/690293292964773969/759700011004723210/crazyfox.png" alt="esx - scoreboard"></a>
+  <a href="https://cdn.discordapp.com/attachments/690293292964773969/759700939661246484/crazyfox-min.png" alt="esx - scoreboard"></a>
   <br>
   Fivem Scoreboard [esx]
   <br>
