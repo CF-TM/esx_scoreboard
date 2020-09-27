@@ -6,14 +6,11 @@
   <br>
 </h1>
 
-<h4 align="center">Music, Moderation, Trivia, Stream Alerts and Fully Modular.</h4>
+<h4 align="center">Smart, gradient, compact, Shows the theft status live.h4>
 
 <p align="center">
-  <a href="https://discord.gg/red">
-    <img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield" alt="Discord Server">
-  </a>
-  <a href="https://pypi.org/project/Red-DiscordBot/">
-     <img alt="PyPI" src="https://img.shields.io/pypi/v/Red-Discordbot">
+  <a href="https://discord.gg/4E8sth5">
+    <img src="https://discordapp.com/api/guilds/740786200335351871/widget.png?style=shield" alt="Discord Server">
   </a>
   <a href="https://www.python.org/downloads/">
     <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Red-Discordbot">
