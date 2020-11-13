@@ -3,10 +3,6 @@ html {
 	font-family: 'Segoe UI';
 	overflow: hidden;
 }
-body {
-	background-image: url(https://images6.alphacoders.com/553/thumb-1920-553248.jpg);
-	background-repeat: no-repeat;
-}
 #wrap {
 	width: 65vw;
 	min-height: 130px;
