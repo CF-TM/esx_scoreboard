@@ -1,3 +1,4 @@
+--- CrazyFox Discord Channel: https://discord.gg/4E8sth5
 ESX = nil
 local connectedPlayers = {}
 
