@@ -23,9 +23,11 @@ $(function () {
 			if (event.data.state) {
 				$('td:nth-child(2),th:nth-child(2)').show();
 				$('td:nth-child(5),th:nth-child(5)').show();
+				$('td:nth-child(8),th:nth-child(8)').show();
 			} else {
 				$('td:nth-child(2),th:nth-child(2)').hide();
 				$('td:nth-child(5),th:nth-child(5)').hide();
+				$('td:nth-child(8),th:nth-child(8)').hide();
 			}
 			break;
 		case 'scrollUP':
