@@ -84,7 +84,7 @@ RegisterCommand('screfresh', function(source, args, user)
 
 	local xPlayer = ESX.GetPlayerFromId(source)
 
-		if xPlayer.permission_level > 1 then
+		if xPlayer.getGroup() == 'admin' or xPlayer.getGroup() == 'superadmin' then
 
 			AddPlayersToScoreboard()
 
@@ -100,7 +100,7 @@ RegisterCommand('sctoggle', function(source, args, user)
 
 	local xPlayer = ESX.GetPlayerFromId(source)
 
-		if xPlayer.permission_level > 1 then
+		if xPlayer.getGroup() == 'admin' or xPlayer.getGroup() == 'superadmin' then
 
 			TriggerClientEvent('esx_scoreboard:toggleID', source)
 			
@@ -111,4 +111,3 @@ RegisterCommand('sctoggle', function(source, args, user)
 		end
 
 end, false)
-
