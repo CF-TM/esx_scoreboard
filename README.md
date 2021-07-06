@@ -23,12 +23,6 @@
   </a>
 </p>
 
-<br><br>
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/859453855090475019/861999312648667136/sb.gif" width="1920" title="Github Logo">
-</p>
-<br>
-
 <p align="center">
   <b>Social media</b><br>
   <a href="https://foxteam.ir">Website</a> |
