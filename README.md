@@ -9,9 +9,7 @@
 <h4 align="center">Smart, gradient, compact, Shows the theft status live. </h4>
 
 <p align="center">
-  <a href="https://visualstudio.microsoft.com/downloads/" target="_blank">
-    <img src="https://img.shields.io/badge/Visual Studio-2017-50379b.svg?longCache=true&style=for-the-badge">
-  </a>
+  
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7" target="_blank">
     <img src="https://img.shields.io/badge/Language-Lua 5.4.3-00007C.svg?longCache=true&style=for-the-badge">
   </a>
@@ -22,6 +20,9 @@
     <img src="https://img.shields.io/badge/Donate-%E2%99%A5-ffce00.svg?longCache=true&style=for-the-badge">
   </a>
 </p>
+
+
+
 
 
 <p align="center">
