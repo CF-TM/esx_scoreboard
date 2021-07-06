@@ -1,13 +1,13 @@
 <br />
 <p align="center">
-  <a href="https://foxteam.ir/gallery/mrfox.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/CF-TM" target="_blank">
+    <img src="https://foxteam.ir/gallery/mrfox.png" alt="Logo" width="150" height="150">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+<h3 align="center">[ESX] FIVEM SCOREBOARD</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A user friendly scoreboard for your server ;)
     <br />
    <!-- <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
