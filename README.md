@@ -1,8 +1,8 @@
-<br />
+<!-- <br />
 <p align="center">
   <a href="https://github.com/CF-TM" target="_blank">
     <img src="https://foxteam.ir/gallery/mrfox.png" alt="Logo" width="150" height="150">
-  </a>
+  </a> -->
 
 <h3 align="center">[ESX] FIVEM SCOREBOARD</h3>
 
@@ -27,8 +27,11 @@
   <a href="https://opensource.org/licenses/MIT" target="_blank">
       <img src="https://img.shields.io/badge/licence-MIT-FFA726.svg?longCache=true&style=for-the-badge">
   </a> 
-  <a href="https://me.pay.ir/CrazyFox" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-%E2%99%A5-ffce00.svg?longCache=true&style=for-the-badge">
+  <a href="https://discord.gg/QhxE9pwwuM" target="_blank">
+    <img src="https://img.shields.io/badge/JoinUs-grey?style=for-the-badge&logo=discord&logoColor=white&labelColor=5662F6">
+  </a>
+    <a href="https://instagram.com/crazyfox.exe" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-grey?style=for-the-badge&logo=instagram&logoColor=white&labelColor=F15680">
   </a>
 </p>
 <h1 align="center">
