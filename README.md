@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Visual Studio-2017-50379b.svg?longCache=true&style=for-the-badge">
   </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7" target="_blank">
-    <img src="https://img.shields.io/badge/Language-Lua 5.4.3-6bf15b.svg?longCache=true&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Language-Lua 5.4.3-00007C.svg?longCache=true&style=for-the-badge">
   </a>
   <a href="https://opensource.org/licenses/MIT" target="_blank">
       <img src="https://img.shields.io/badge/licence-MIT-FFA726.svg?longCache=true&style=for-the-badge">
