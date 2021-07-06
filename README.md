@@ -1,13 +1,24 @@
-<h1 align="center">
+<br />
+<p align="center">
+  <a href="https://foxteam.ir/gallery/mrfox.png">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-  ![baner](https://cdn.discordapp.com/attachments/690293292964773969/759700939661246484/crazyfox-min.png)
-  <br>
-  Fivem Scoreboard [esx]
-  <br>
-</h1>
+  <h3 align="center">Best-README-Template</h3>
 
-<h4 align="center">Smart, gradient, compact, Shows the theft status live. </h4>
-
+  <p align="center">
+    An awesome README template to jumpstart your projects!
+    <br />
+   <!-- <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a> -->
+  </p>
+</p>
 <p align="center">
   
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7" target="_blank">
@@ -20,15 +31,22 @@
     <img src="https://img.shields.io/badge/Donate-%E2%99%A5-ffce00.svg?longCache=true&style=for-the-badge">
   </a>
 </p>
+<h1 align="center">
 
+  ![baner](https://cdn.discordapp.com/attachments/690293292964773969/759700939661246484/crazyfox-min.png)
 
+</h1>
 
-
-
-<p align="center">
+<!-- <p align="center">
   <b>Social media</b><br>
-  <a href="https://foxteam.ir">Website</a> |
-  <a href="https://discord.gg/QhxE9pwwuM">Discord</a> |
-  <a href="https://instagram.com/crazyfox.exe">Instagram</a>
+  <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a> 
 
-</p>
+
+</p> -->
