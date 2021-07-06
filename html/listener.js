@@ -119,7 +119,7 @@ function applyPingColor() {
 		$(this).find('td:nth-child(3),td:nth-child(6),td:nth-child(9)').each(function () {
 			var ping = $(this).html();
 			var color = 'green';
-			if (ping > 150 && ping < 190) {
+			if (ping > 150 && ping < 200) {
 				color = 'orange';
 			} else if (ping >= 200) {
 				color = 'red';
@@ -129,6 +129,7 @@ function applyPingColor() {
 		});
 	});
 }
+
 function updatePing(players) {
 	jQuery.each(players, function (index, element) {
 		if (element != null) {
