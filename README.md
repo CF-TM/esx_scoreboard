@@ -20,10 +20,12 @@
   </p>
 <p align="center">
   
-  <a href="https://www.lua.org/" target="_blank">
+  <a href="#">
     <img src="https://img.shields.io/badge/Language-Lua 5.4.3-00007C.svg?longCache=true&logo=Lua&logoColor=fafafa&style=for-the-badge">
   </a>
+  <a href="#">
   <img src="https://img.shields.io/github/watchers/CF-TM/esx_scoreboard?label=PAGE%20VIEW&logo=github&style=for-the-badge" />
+  </a>
   <a href="https://discord.gg/QhxE9pwwuM" target="_blank">
     <img src="https://img.shields.io/badge/DISCORD-grey?style=for-the-badge&logo=discord&logoColor=white&labelColor=5662F6">
   </a>
