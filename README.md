@@ -1,14 +1,9 @@
-<!-- <br />
-<p align="center">
-  <a href="https://github.com/CF-TM" target="_blank">
-    <img src="https://foxteam.ir/gallery/mrfox.png" alt="Logo" width="150" height="150">
-  </a> -->
-
 <h3 align="center">[ESX] FIVEM SCOREBOARD</h3>
 
   <p align="center">
     A user friendly scoreboard for your server ;)
     <br />
+  don't forget the 🌟
    <!-- <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
