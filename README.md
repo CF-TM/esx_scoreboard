@@ -1,3 +1,6 @@
+<div align="center">
+  <a href="https://github.com/SadraKhorami/esx_scoreboard"><b>This project is include on my new GitHub</b></a><br><b>Dont forget The Star</b> 
+  </div>
 <h3 align="center">[ESX] FIVEM SCOREBOARD</h3>
 
   <p align="center">
