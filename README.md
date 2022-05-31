@@ -24,7 +24,7 @@
   <a href="#">
   <img src="https://img.shields.io/github/watchers/CF-TM/esx_scoreboard?label=PAGE%20VIEW&logo=github&style=for-the-badge" />
   </a>
-  <a href="https://discord.gg/QhxE9pwwuM" target="_blank">
+  <a href="https://discord.gg/dWjWdSkTth" target="_blank">
     <img src="https://img.shields.io/badge/DISCORD-grey?style=for-the-badge&logo=discord&logoColor=white&labelColor=5662F6">
   </a>
     <a href="https://instagram.com/crazyfox.exe" target="_blank">
